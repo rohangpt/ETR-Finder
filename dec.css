@@ -1,0 +1,71 @@
+p{
+padding: 10px;
+}
+
+#id0{
+	background: brown;
+}
+#id1{
+	width:25%;
+	color: red;
+	background: orange;
+	text-align: center;
+	display:inline-block;
+	height: 75px;
+}
+#id2{
+	width:75%;
+	text-align: left;
+	color: blue;
+	background: orange;
+	float: right;
+	height: 75px;
+}
+#id3{
+	width:25%;
+	background: #0ABCCB;
+	height: 546px;
+	display:inline-block;
+	margin: 25px;
+
+}
+#idf{
+	padding: 10px;
+	background: black;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+}
+#id4{
+	float: right;
+	width: 100%;
+	background: #0ABCCB;
+	height: 546px;
+
+}
+#container {
+  position: relative;
+}
+#id5{
+background: grey;
+width: 25%;
+height: 546px;
+display:inline-block;
+
+}
+#id6{
+background: white;
+padding: 10px;
+}
+
+#id7{
+width: 75%;
+height: 546px;
+float: right;
+text-align: center;
+}
+
+.main{
+	overflow: scroll;
+}
+
