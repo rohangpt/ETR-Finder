@@ -1,6 +1,6 @@
 Format of the file name is as follows :
 
-Output<Chromosome_Number>_<repeat_length>
+Out<Chromosome_Number>_<repeat_length>
 eg: Output10_4
 It means output of 10th chromosome with repeat length of 4.
 
