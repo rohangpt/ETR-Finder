@@ -1,0 +1,2 @@
+15413222	30	13	 gcgctctggggctggagccgacactggcgg
+39522240	30	11	 ctggggctggagccgacactggcgggcgct
