@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html class="main">
+<head>
+	<title>ETR Finder</title>
+	<link rel="stylesheet" type="text/css" href="dec.css">
+</head>
+<body id="id0">
+
+<header>
+<div >
+<div id="id1"><h3>National Institute of Technology <br>Warangal</h3></div> <div id="id2"><h1>Exact Tandem Repeats
+Within the Zebrafish Genome (ETR Finder)</h1></div>
+</div>
+</header>
+
+<div id="container">
+<aside id="id4">
+
+<div id="id5">
+	<div id="id6"><strong>Display Characteristics</strong></div>
+
+	<p><br> <span style="color: #000099"><strong>(Note:</strong> Select the parameters from the given options and click submit)</span><br><br>
+	<br>
+  Input files are taken from <a href="http://may2009.archive.ensembl.org/index.html">The Ensembl FTP</a>.To check the input files(Zv8 DNA Chromosome) <a href="ftp://ftp.ensembl.org/pub/release-54/fasta/danio_rerio/dna/">Click here</a>.
+  <br><br><br>
+  <strong>Linkage Group:</strong> 
+       <select id="lnkgrp" value="lg" name="LinkageGroup">
+        <option selected="selected">-- Select --</option>
+          <option value="1">Chromosome 1</option>
+          <option value="2">Chromosome 2</option>
+          <option value="3">Chromosome 3</option>
+          <option value="4">Chromosome 4</option>
+          <option value="5">Chromosome 5</option>
+          <option value="6">Chromosome 6</option>
+          <option value="7">Chromosome 7</option>
+          <option value="8">Chromosome 8</option>
+          <option value="9">Chromosome 9</option>
+          <option value="10">Chromosome 10</option>
+          <option value="11">Chromosome 11</option>
+          <option value="12">Chromosome 12</option>
+          <option value="13">Chromosome 13</option>
+          <option value="14">Chromosome 14</option>
+          <option value="15">Chromosome 15</option>
+          <option value="16">Chromosome 16</option>
+          <option value="17">Chromosome 17</option>
+          <option value="18">Chromosome 18</option>
+          <option value="19">Chromosome 19</option>
+          <option value="20">Chromosome 20</option>
+          <option value="21">Chromosome 21</option>
+          <option value="22">Chromosome 22</option>
+          <option value="23">Chromosome 23</option>
+          <option value="24">Chromosome 24</option>
+          <option value="25">Chromosome 25</option>
+          </select>
+
+<br><br><br>
+  <strong>Repeat Length:</strong>
+
+	<select  id="load_data" value="rl" name="Repeatlength" onChange="jsfunction()">
+          <option selected="selected">-- Select --</option>
+          <option value="ALL">ALL</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option>
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          </select>
+</p>
+
+
+          <font face="Helvetica, Arial, sans-serif"><b><small>
+                </small></b></font>                                     
+                                               
+<!--           <div style="padding: 50px" align="left"><font face="Helvetica, Arial, sans-serif"><b><small><input
+ type="submit" value="Submit"></small></b></font><br>
+          </div>
+ --></p>
+</div>
+<!-- -->
+
+<script type="text/javascript">
+
+// window.onload=function() {
+//   document.getElementById("lnkgrp").onchange=function() {
+//     var p = this.value;
+
+
+//   } 
+// }
+  
+
+// window.onload=function() {
+//   document.getElementById("load_data").onchange=function() {
+//     var period = this.value;
+
+//     if(period=="ALL")
+//     {
+//       console.log('Hey');
+//       //window.location.href = 'https://github.com/rohangpt/ETR-Finder/blob/master/zebrafish_output%20Files/zebrafish/Out10_14.txt';
+    
+//     }
+//     if(period=="1")
+//     {
+//         console.log('Hello');
+//     }
+//     if(period=="2")
+//     {
+
+//     }
+
+//   } 
+// }
+
+function jsfunction(){
+    console.log("hi");
+        var period = document.getElementById("load_data").value;
+        var grp = document.getElementById("lnkgrp").value;
+
+        console.log(period + grp);
+    if(period!="ALL" )
+    {
+
+     var url=new URL("https://github.com/rohangpt/ETR-Finder/blob/master/zebrafish_output%20Files/zebrafish/Out"+grp+"_"+period+".txt");
+     
+     window.location = url;
+   //  window.location.replace(url);
+    }
+    else
+    {
+      var u=new URL("https://github.com/rohangpt/ETR-Finder/blob/master/zebrafish_output%20Files/output"+grp+".txt");
+     
+     window.location = u;
+    }
+
+}
+  
+</script>
+
+
+<!--  -->
+
+<div id="id7">
+
+	<p><img src="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1471-2164-12-531/MediaObjects/12864_2011_3675_Fig7_HTML.jpg" width="800" height="400"></p>
+	<p>A total of _______ exact tandem repeats with a base length of at least three and a copy number of at least ten have been detected in the linkage group of Zv8 assembly of the zebrafish genome.</p>
+	
+</div>	
+
+</aside>
+</div>
+
+<footer id="idf">
+	© 2017 Developed and maintained by Rohan Gupta,Naveen Indoria and Anurag Pilaniya.
+</footer>
+
+</body>
+</html>
