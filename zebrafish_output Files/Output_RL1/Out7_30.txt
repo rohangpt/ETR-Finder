@@ -1,0 +1,7 @@
+11370650	30	50	 gctccagcccctgagcgccctccagtgtcg
+12485663	30	11	 gggcgctcaggggctggagccgacactgga
+30386866	30	31	 ggcgctctggggctggagccgacactggag
+44822468	30	12	 cgccctccagtgtcggctccagcccctgag
+63887847	30	12	 gccatcttgtgagctggaggactggagtcg
+65877940	30	26	 gctccagcccctgagcgccctccagtgtcg
+71830194	30	21	 gggcgctcaggggctggagccgacactgga
