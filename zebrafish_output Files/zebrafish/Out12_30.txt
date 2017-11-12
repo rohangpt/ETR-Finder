@@ -1,0 +1,3 @@
+11264274	30	19	 ccctccagtgtcggctccagcccctgagcg
+12327768	30	10	 gctcaggggctggagccgacactggagggc
+20446422	30	13	 ggcgctcaggggctggagccgacactggag

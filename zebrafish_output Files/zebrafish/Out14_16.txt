@@ -1,0 +1,2 @@
+650101	16	10	 agtatgcagatgatca
+52376005	16	22	 cgctctacccctagtt

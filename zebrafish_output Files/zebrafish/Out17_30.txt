@@ -1,0 +1,5 @@
+4096736	30	10	 gctccagcccctgagcgccctccagtgtcg
+11830410	30	21	 gctccagcccctgagcgccctccagtgtcg
+13247302	30	19	 cagtgtcggctccagccccagagcgccctc
+30346066	30	18	 gctccagcccctgagcgccctccagtgtcg
+39807138	30	15	 cggctccagcccctgagcgccctccagtgt

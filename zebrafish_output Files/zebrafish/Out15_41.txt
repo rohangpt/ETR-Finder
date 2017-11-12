@@ -1,0 +1,2 @@
+46694717	41	10	 ggctctagaggtctctgtagttgcgtgtctgtgtatttctg
+46695140	41	11	 tctgtagttgcgtgtctgtgtatttctgggctctagaggtc
