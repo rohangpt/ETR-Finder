@@ -24,7 +24,7 @@ Within the Zebrafish Genome (ETR Finder)</h1></div>
   Input files are taken from <a href="http://may2009.archive.ensembl.org/index.html">The Ensembl FTP</a>.To check the input files(Zv8 DNA Chromosome) <a href="ftp://ftp.ensembl.org/pub/release-54/fasta/danio_rerio/dna/">Click here</a>.
   <br><br><br>
   <strong>Linkage Group:</strong> 
-       <select id="lnkgrp" value="lg" name="LinkageGroup">
+       <select id="lnkgrp" value="lg" name="LinkageGroup" onChange="jsfunction()">
         <option selected="selected">-- Select --</option>
           <option value="1">Chromosome 1</option>
           <option value="2">Chromosome 2</option>
@@ -57,8 +57,8 @@ Within the Zebrafish Genome (ETR Finder)</h1></div>
   <strong>Repeat Length:</strong>
 
 	<select  id="load_data" value="rl" name="Repeatlength" onChange="jsfunction()">
-          <option selected="selected">-- Select --</option>
-          <option value="ALL">ALL</option>
+          
+          <option value="ALL" selected="selected">ALL</option>
           <option value="1">1</option>
           <option value="2">2</option>
           <option value="3">3</option>
@@ -90,46 +90,11 @@ Within the Zebrafish Genome (ETR Finder)</h1></div>
 
           <font face="Helvetica, Arial, sans-serif"><b><small>
                 </small></b></font>                                     
-                                               
-<!--           <div style="padding: 50px" align="left"><font face="Helvetica, Arial, sans-serif"><b><small><input
- type="submit" value="Submit"></small></b></font><br>
-          </div>
- --></p>
+</p>
 </div>
-<!-- -->
 
 <script type="text/javascript">
 
-// window.onload=function() {
-//   document.getElementById("lnkgrp").onchange=function() {
-//     var p = this.value;
-
-
-//   } 
-// }
-  
-
-// window.onload=function() {
-//   document.getElementById("load_data").onchange=function() {
-//     var period = this.value;
-
-//     if(period=="ALL")
-//     {
-//       console.log('Hey');
-//       //window.location.href = 'https://github.com/rohangpt/ETR-Finder/blob/master/zebrafish_output%20Files/zebrafish/Out10_14.txt';
-    
-//     }
-//     if(period=="1")
-//     {
-//         console.log('Hello');
-//     }
-//     if(period=="2")
-//     {
-
-//     }
-
-//   } 
-// }
 
 function jsfunction(){
     console.log("hi");
@@ -139,8 +104,25 @@ function jsfunction(){
         console.log(period + grp);
     if(period!="ALL" )
     {
+      var t;
+      if(grp < 8)
+      {
+        t=1;
+      }
+      else if(grp> 7 && grp < 16)
+      {
+        t=2;
+      }
+      else if(grp> 15 && grp < 24)
+      {
+        t=3;
+      }
+      else
+      {
+        t=4;
+      }
 
-     var url=new URL("https://github.com/rohangpt/ETR-Finder/blob/master/zebrafish_output%20Files/zebrafish/Out"+grp+"_"+period+".txt");
+     var url=new URL("https://github.com/rohangpt/ETR-Finder/blob/master/zebrafish_output%20Files/Output_RL"+ t +"/Out"+grp+"_"+period+".txt");
      
      window.location = url;
    //  window.location.replace(url);
