@@ -1,0 +1,4 @@
+10179048	36	13	 tgtgtattttatgtatgttgtttatatgtttgtatg
+10358031	36	16	 tacacacatacaaacatataaacaacatacataaaa
+51869746	36	13	 agagcgttgggggtgagttgcgcgcgatgtacccat
+51870790	36	10	 agagcgttgggggtgagttgcgcgcgatgtacccat

@@ -1,0 +1,3 @@
+945589	27	10	 caactccaccaacatcagctaaagcaa
+31819249	27	11	 gtgttgtcgcgcgcgttctgatcagct
+36127900	27	16	 gcctgagctccctgaatggccgccgcc

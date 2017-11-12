@@ -1,0 +1,7 @@
+8359916	30	12	 ggcgctctggggctggagccgacactggcg
+16048004	30	11	 gctctggggctggagccgacactggcgggc
+37398565	30	14	 gctccagccccagagcgcccgccagtgtcg
+42623698	30	17	 gctccagcccctgagcgccctccagtgtcg
+42624209	30	11	 ctccagcccctgagcgccctccagtgtcgg
+45278495	30	20	 gggctggagccgacactggagggcgctctg
+46474718	30	11	 gcgctctggggctggagccgacactggagg

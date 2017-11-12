@@ -1,0 +1,3 @@
+55728136	27	12	 ggcggcggccgttcaggaagctcagga
+58056154	27	15	 cgcgcgacaacaccgctactcagtacg
+58056735	27	24	 gctgataagaacgcgcgcgacaacaca

@@ -1,0 +1,6 @@
+23532463	30	11	 cagcccctgagcgccctccagtgtcggctc
+44081047	30	10	 gctccagcccctgagcgccctccagtgtcg
+51521064	30	13	 cagcccctgagcgccctccagtgtcggctc
+51760162	30	10	 gctcgggggctggagccgacactggcgggc
+57485576	30	25	 cagtgtcggctccagccccagagcgccctc
+68495880	30	14	 gctccagcccctgagcgccctccagtgtcg

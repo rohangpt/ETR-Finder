@@ -1,0 +1,2 @@
+16187337	27	13	 cctgaacggccgccgcctcctgaactc
+16187702	27	14	 gcctcctgaactccctgaacggccgcc

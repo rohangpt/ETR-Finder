@@ -1,0 +1,4 @@
+8797639	30	10	 gcgctctggggctggagccgacactggagg
+14616920	30	20	 ccgacactggagggcgctcaggggctggag
+16186017	30	10	 cacaagatggccgactccagtcctccagct
+37846424	30	14	 gctccagcccctgagcgccctccagtgtcg

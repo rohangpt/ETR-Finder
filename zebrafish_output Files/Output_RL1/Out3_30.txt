@@ -1,0 +1,5 @@
+36127274	30	13	 ccagctcacaagatggccgactccagtcct
+38699736	30	13	 ggctccagcccctgagcgccctccagtgtc
+42391893	30	13	 cagtgtcggctccagccccagagcgccctc
+46383202	30	13	 gagcgccctccagtgtcggctccagcccct
+56358800	30	12	 gagcgccctccagtgtcggctccagcccct
