@@ -1,0 +1,3 @@
+2012424	30	14	 cgctcaggggctggagccgacactggaggg
+14375960	30	21	 ggcgctcaggggctggagccgacactggag
+39619016	30	16	 cggctccagccccagagcgccctccagtgt

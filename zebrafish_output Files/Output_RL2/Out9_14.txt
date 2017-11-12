@@ -1,0 +1,2 @@
+418364	14	48	 ctacccctagttga
+419216	14	20	 tagttgactacccc

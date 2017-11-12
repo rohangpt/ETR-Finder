@@ -1,0 +1,3 @@
+10022535	30	17	 ggggctggagccgacactggagggcgctca
+37089186	30	75	 gggctggagccgacactggagggcgctctg
+40636335	30	16	 ctctggggctggagccgacactggcgggcg

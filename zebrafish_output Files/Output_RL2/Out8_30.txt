@@ -1,0 +1,5 @@
+29822239	30	13	 ggggctggagccgacactggagggcgctct
+30761969	30	16	 ggcgctctggggctggagccgacactggag
+33303929	30	22	 cggctccagccccagagcgccctccagtgt
+41158413	30	10	 gggctggagccgacactggagggcgctctg
+41178216	30	12	 agtcctccagctcacaagatggccgactcc

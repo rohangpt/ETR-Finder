@@ -1,0 +1,6 @@
+19064903	30	14	 tggggctggagccgacactggcgggcgctc
+25880066	30	14	 gagcgccctccagtgtcggctccagcccct
+29561538	30	16	 gcgctctggggctggagccgacactggcgg
+38131138	30	20	 cagccccagagcgccctccagtgtcggctc
+40696023	30	52	 ggagccgacactggagggcgctcaggggct
+44138475	30	12	 gccggcgggacaggaggcagctgggctgga
