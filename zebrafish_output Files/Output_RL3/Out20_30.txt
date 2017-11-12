@@ -1,0 +1,4 @@
+12321742	30	10	 ccagtgtcggctccagccccagagcgcccg
+16422397	30	10	 ctccagctcacaagatggccgactccagtc
+24463062	30	10	 cagtgtcggctccagccccagagcgccctc
+31861832	30	10	 gcgctctggggctggagccgacactggagg

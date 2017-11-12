@@ -1,0 +1,2 @@
+1066884	20	14	 aacacacactgcatcaacac
+1067168	20	11	 cacactgcatcaacacaaca

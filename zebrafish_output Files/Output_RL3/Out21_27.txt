@@ -1,0 +1,3 @@
+4512020	27	17	 tcagtacgcgcgcgacaacaccgctct
+12920814	27	10	 gccgccgcctgagcttcctgaatggcc
+42241340	27	20	 gtgttgtcgcgcgagttcttatcagct

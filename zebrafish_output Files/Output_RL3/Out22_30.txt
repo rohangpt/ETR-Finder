@@ -1,0 +1,7 @@
+14279984	30	10	 gctccagcccctgagcgccctccagtgtcg
+14280288	30	11	 cagcccctgagcgccctccagtgtcggctc
+15476616	30	11	 cagtgtcggctccagccccagagcgccctc
+29394981	30	12	 cgctcaggggctggagccgacactggaggg
+31601613	30	16	 agccccagagcgcccgccagtgtcggctcc
+31938519	30	13	 ccctccagtgtcggctccagcccctgagcg
+33376451	30	11	 cccagagcgcccgccagtgtcggctccagc

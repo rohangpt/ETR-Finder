@@ -1,0 +1,2 @@
+6873161	23	11	 gcttcattcgcgcgtcaaacccc
+6950751	23	10	 aaccccgcttcgttcgcgcgtca

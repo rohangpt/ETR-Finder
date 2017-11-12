@@ -1,0 +1,3 @@
+10143064	27	15	 cgcgcgacaacacagctgataagaact
+36066029	27	13	 aggcggcggccattcaggaagctcagg
+37137706	27	26	 ctccagcccagccggctccccacaggc

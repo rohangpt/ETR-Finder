@@ -1,0 +1,5 @@
+3638135	30	12	 gctccagcccctgagcgccctccagtgtcg
+9066616	30	10	 ggggctggagccgacactggagggcgctct
+24809550	30	11	 ggcgctcaggggctggagccgacactggag
+25896437	30	10	 cagctcacaagatggccgactccagtcctc
+34345973	30	31	 ccgacactggagggcgctcaggggctggag

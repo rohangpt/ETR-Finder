@@ -1,0 +1,4 @@
+332482	14	50	 ctacccctagttga
+333290	14	16	 ccctagttgactac
+335374	14	64	 ccctagttgactac
+49393784	14	51	 ctacccctagttga

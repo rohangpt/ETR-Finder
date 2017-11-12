@@ -1,0 +1,5 @@
+12816020	30	17	 cagcccctgagcgccctccagtgtcggctc
+26762603	30	24	 cccagagcgcccgccagtgtcggctccagc
+26764071	30	10	 tccagtcccgccggctcctgcccagctgcc
+28175259	30	11	 ggagccggcgggactggaggcagctgggca
+28846791	30	14	 ctccagtgtcggctccagccccagagcgcc
