@@ -8,4 +8,6 @@ Step 2:
 Extract the contents of file.
 
 Step 3:
-Run UI.exe
+Run UI.html
+
+(Note: Code can be directly accessed through suffix.cpp)
